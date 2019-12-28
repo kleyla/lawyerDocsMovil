@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948986959877",
+    "firebase_url": "https://lawyerdocs-764c9.firebaseio.com",
+    "project_id": "lawyerdocs-764c9",
+    "storage_bucket": "lawyerdocs-764c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948986959877:android:3ab79886b56875852e646c",
+        "android_client_info": {
+          "package_name": "com.lawyerdocs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948986959877-t2elgpv3dbjotlfb98icb48lvrf8qlg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvEXrazwCadndKx2lgd7vsbiLq4cS6M7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948986959877-t2elgpv3dbjotlfb98icb48lvrf8qlg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
